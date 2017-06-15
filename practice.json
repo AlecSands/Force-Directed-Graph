@@ -10,7 +10,7 @@
     {"id": "Howard", "group": 3}
   ],
   "links": [
-    {"source": "Alec", "target": "Pam", "value": 1},
+    {"source": "Alec", "target": "Pam", "value": 10},
     {"source": "Alec", "target": "Mary", "value": 1},
     {"source": "Alec", "target": "Scott", "value": 1},
     {"source": "Alec", "target": "Walter", "value": 1},
