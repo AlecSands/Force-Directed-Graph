@@ -15,6 +15,8 @@
     {"source": "Alec", "target": "Scott", "value": 1},
     {"source": "Alec", "target": "Walter", "value": 1},
     {"source": "Alec", "target": "Howard", "value": 1},
+    {"source": "Alec", "target": "Zach", "value": 1},
+    {"source": "Mary", "target": "Scott", "value": 1},
     {"source": "Pam", "target": "Andrea", "value": 1}
   ]
 }
