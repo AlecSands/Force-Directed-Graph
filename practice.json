@@ -10,13 +10,16 @@
     {"id": "Howard", "group": 3}
   ],
   "links": [
-    {"source": "Alec", "target": "Pam", "value": 10},
+    {"source": "Alec", "target": "Pam", "value": 1},
     {"source": "Alec", "target": "Mary", "value": 1},
     {"source": "Alec", "target": "Scott", "value": 1},
     {"source": "Alec", "target": "Walter", "value": 1},
     {"source": "Alec", "target": "Howard", "value": 1},
     {"source": "Alec", "target": "Zach", "value": 1},
     {"source": "Mary", "target": "Scott", "value": 1},
+    {"source": "Howard", "target": "Zach", "value": 1},
+    {"source": "Walter", "target": "Zach", "value": 1},
+    {"source": "Walter", "target": "Howard", "value": 1},
     {"source": "Pam", "target": "Andrea", "value": 1}
   ]
 }
