@@ -1,16 +1,20 @@
 {
   "nodes": [
-    {"id": "Myriel", "group": 1},
-    {"id": "Napoleon", "group": 1},
-    {"id": "Mlle.Baptistine", "group": 1},
-    {"id": "Mme.Hucheloup", "group": 8}
+    {"id": "Alec", "group": 1},
+    {"id": "Pam", "group": 1},
+    {"id": "Mary", "group": 2},
+    {"id": "Scott", "group": 2},
+    {"id": "Andrea", "group": 4},
+    {"id": "Zach", "group": 3},
+    {"id": "Walter", "group": 3},
+    {"id": "Howard", "group": 3}
   ],
   "links": [
-    {"source": "Napoleon", "target": "Myriel", "value": 1},
-    {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8},
-    {"source": "Mme.Magloire", "target": "Myriel", "value": 10},
-    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
-    {"source": "Mme.Hucheloup", "target": "Gavroche", "value": 1},
-    {"source": "Mme.Hucheloup", "target": "Enjolras", "value": 1}
+    {"source": "Alec", "target": "Pam", "value": 1},
+    {"source": "Alec", "target": "Mary", "value": 1},
+    {"source": "Alec", "target": "Scott", "value": 1},
+    {"source": "Alec", "target": "Walter", "value": 1},
+    {"source": "Alec", "target": "Howard", "value": 1},
+    {"source": "Pam", "target": "Andrea", "value": 1}
   ]
 }
